@@ -1,0 +1,8 @@
+{
+  "name": "Remix General Math Experimentation",
+  "description": "Interactive 3D unit cube with orthographic projection, orientation controls, and real-time 3x3 rotation matrix display.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
